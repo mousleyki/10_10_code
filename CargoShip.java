@@ -51,7 +51,7 @@ public class CargoShip extends Ship
    */
    public String toString()
    {
-      return "Name: " + getName() + "\nCargo capacity: " +
+      return "Name: " + getName() + "\nCargo Capacity: " +
              tonnage + " tons";
    }
 }
